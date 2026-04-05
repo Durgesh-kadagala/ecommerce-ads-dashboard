@@ -19,7 +19,7 @@ from src.prediction_engine import (
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Instamart Ads",
+    page_title="E-Commerce Ads",
     page_icon="🛒",
     layout="wide"
 )
@@ -38,7 +38,7 @@ if 'last_product' not in st.session_state:
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## 🛒 Instamart Ads")
+    st.markdown("## 🛒 E-Commerce Ads")
     st.markdown("### Campaign Manager")
     st.divider()
 
