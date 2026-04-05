@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Data files — too large for GitHub
+data/raw/
+data/processed/*.csv
+
+# Keep model evaluation plots
+!data/processed/*.png
+
+# Environment
+.env
+
+# MLflow
+mlruns/
+
+# OS
+.DS_Store
+Thumbs.db
