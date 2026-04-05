@@ -1,0 +1,431 @@
+product_id,keyword_id,product_name,brands,our_category,keyword_text,intent_level,floor_bid,top_of_page_bid,avg_competitor_bid,match_type,cpm_bid,campaign_id,daily_budget,start_date,end_date
+PRD_001,KW_016,Tropicana Orange Juice 1L,PepsiCo,Beverages,cold drink,generic,1.96,9.81,6.54,broad,62.47,CAMP_038,10621.78,2024-01-01,2024-03-31
+PRD_001,KW_017,Tropicana Orange Juice 1L,PepsiCo,Beverages,fruit juice,generic,1.92,9.6,6.4,broad,97.04,CAMP_038,14655.0,2024-01-01,2024-03-31
+PRD_001,KW_018,Tropicana Orange Juice 1L,PepsiCo,Beverages,mineral water,generic,1.2,6.02,4.01,broad,83.92,CAMP_038,13123.96,2024-01-01,2024-03-31
+PRD_001,KW_019,Tropicana Orange Juice 1L,PepsiCo,Beverages,energy drink,generic,2.59,12.94,8.63,broad,75.92,CAMP_038,12190.61,2024-01-01,2024-03-31
+PRD_001,KW_020,Tropicana Orange Juice 1L,PepsiCo,Beverages,tea powder,generic,1.62,8.12,5.41,broad,49.36,CAMP_038,9092.13,2024-01-01,2024-03-31
+PRD_001,KW_021,Tropicana Orange Juice 1L,PepsiCo,Beverages,tata tea,branded,3.14,15.69,10.46,exact,98.72,CAMP_038,9091.96,2024-01-01,2024-03-31
+PRD_001,KW_022,Tropicana Orange Juice 1L,PepsiCo,Beverages,nescafe,branded,4.36,21.81,14.54,exact,86.97,CAMP_038,8406.59,2024-01-01,2024-03-31
+PRD_001,KW_023,Tropicana Orange Juice 1L,PepsiCo,Beverages,tropicana juice,branded,2.44,12.23,8.15,exact,183.94,CAMP_038,14063.23,2024-01-01,2024-03-31
+PRD_001,KW_024,Tropicana Orange Juice 1L,PepsiCo,Beverages,maaza mango,branded,2.02,10.08,6.72,exact,152.13,CAMP_038,12207.81,2024-01-01,2024-03-31
+PRD_001,KW_025,Tropicana Orange Juice 1L,PepsiCo,Beverages,red bull,branded,3.37,16.84,11.23,exact,164.97,CAMP_038,12956.51,2024-01-01,2024-03-31
+PRD_002,KW_016,Real Fruit Juice 1L,Dabur,Beverages,cold drink,generic,1.96,9.81,6.54,broad,41.24,CAMP_015,1061.75,2024-01-01,2024-03-31
+PRD_002,KW_017,Real Fruit Juice 1L,Dabur,Beverages,fruit juice,generic,1.92,9.6,6.4,broad,98.19,CAMP_015,3909.73,2024-01-01,2024-03-31
+PRD_002,KW_018,Real Fruit Juice 1L,Dabur,Beverages,mineral water,generic,1.2,6.02,4.01,broad,89.95,CAMP_015,3497.33,2024-01-01,2024-03-31
+PRD_002,KW_019,Real Fruit Juice 1L,Dabur,Beverages,energy drink,generic,2.59,12.94,8.63,broad,52.74,CAMP_015,1637.02,2024-01-01,2024-03-31
+PRD_002,KW_020,Real Fruit Juice 1L,Dabur,Beverages,tea powder,generic,1.62,8.12,5.41,broad,50.91,CAMP_015,1545.47,2024-01-01,2024-03-31
+PRD_002,KW_021,Real Fruit Juice 1L,Dabur,Beverages,tata tea,branded,3.14,15.69,10.46,exact,102.01,CAMP_015,1550.21,2024-01-01,2024-03-31
+PRD_002,KW_022,Real Fruit Juice 1L,Dabur,Beverages,nescafe,branded,4.36,21.81,14.54,exact,116.51,CAMP_015,1912.73,2024-01-01,2024-03-31
+PRD_002,KW_023,Real Fruit Juice 1L,Dabur,Beverages,tropicana juice,branded,2.44,12.23,8.15,exact,142.97,CAMP_015,2574.27,2024-01-01,2024-03-31
+PRD_002,KW_024,Real Fruit Juice 1L,Dabur,Beverages,maaza mango,branded,2.02,10.08,6.72,exact,131.83,CAMP_015,2295.84,2024-01-01,2024-03-31
+PRD_002,KW_025,Real Fruit Juice 1L,Dabur,Beverages,red bull,branded,3.37,16.84,11.23,exact,114.95,CAMP_015,1873.69,2024-01-01,2024-03-31
+PRD_003,KW_016,Thums Up 750Ml,Coca-Cola,Beverages,cold drink,generic,1.96,9.81,6.54,broad,76.71,CAMP_013,2835.56,2024-01-01,2024-03-31
+PRD_003,KW_017,Thums Up 750Ml,Coca-Cola,Beverages,fruit juice,generic,1.92,9.6,6.4,broad,48.37,CAMP_013,1418.48,2024-01-01,2024-03-31
+PRD_003,KW_018,Thums Up 750Ml,Coca-Cola,Beverages,mineral water,generic,1.2,6.02,4.01,broad,57.53,CAMP_013,1876.43,2024-01-01,2024-03-31
+PRD_003,KW_019,Thums Up 750Ml,Coca-Cola,Beverages,energy drink,generic,2.59,12.94,8.63,broad,61.98,CAMP_013,2099.09,2024-01-01,2024-03-31
+PRD_003,KW_020,Thums Up 750Ml,Coca-Cola,Beverages,tea powder,generic,1.62,8.12,5.41,broad,67.36,CAMP_013,2368.21,2024-01-01,2024-03-31
+PRD_003,KW_021,Thums Up 750Ml,Coca-Cola,Beverages,tata tea,branded,3.14,15.69,10.46,exact,174.22,CAMP_013,3355.53,2024-01-01,2024-03-31
+PRD_003,KW_022,Thums Up 750Ml,Coca-Cola,Beverages,nescafe,branded,4.36,21.81,14.54,exact,103.96,CAMP_013,1599.02,2024-01-01,2024-03-31
+PRD_003,KW_023,Thums Up 750Ml,Coca-Cola,Beverages,tropicana juice,branded,2.44,12.23,8.15,exact,141.71,CAMP_013,2542.7,2024-01-01,2024-03-31
+PRD_003,KW_024,Thums Up 750Ml,Coca-Cola,Beverages,maaza mango,branded,2.02,10.08,6.72,exact,151.09,CAMP_013,2777.24,2024-01-01,2024-03-31
+PRD_003,KW_025,Thums Up 750Ml,Coca-Cola,Beverages,red bull,branded,3.37,16.84,11.23,exact,85.57,CAMP_013,1139.35,2024-01-01,2024-03-31
+PRD_004,KW_016,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,cold drink,generic,1.96,9.81,6.54,broad,76.45,CAMP_012,2822.63,2024-01-01,2024-03-31
+PRD_004,KW_017,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,fruit juice,generic,1.92,9.6,6.4,broad,50.23,CAMP_012,1511.57,2024-01-01,2024-03-31
+PRD_004,KW_018,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,mineral water,generic,1.2,6.02,4.01,broad,43.9,CAMP_012,1195.15,2024-01-01,2024-03-31
+PRD_004,KW_019,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,energy drink,generic,2.59,12.94,8.63,broad,96.93,CAMP_012,3846.66,2024-01-01,2024-03-31
+PRD_004,KW_020,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,tea powder,generic,1.62,8.12,5.41,broad,97.94,CAMP_012,3896.9,2024-01-01,2024-03-31
+PRD_004,KW_021,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,tata tea,branded,3.14,15.69,10.46,exact,177.01,CAMP_012,3425.19,2024-01-01,2024-03-31
+PRD_004,KW_022,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,nescafe,branded,4.36,21.81,14.54,exact,116.55,CAMP_012,1913.84,2024-01-01,2024-03-31
+PRD_004,KW_023,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,tropicana juice,branded,2.44,12.23,8.15,exact,91.72,CAMP_012,1293.02,2024-01-01,2024-03-31
+PRD_004,KW_024,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,maaza mango,branded,2.02,10.08,6.72,exact,162.11,CAMP_012,3052.7,2024-01-01,2024-03-31
+PRD_004,KW_025,Minute Maid Pulpy Orange 400Ml,Coca-Cola,Beverages,red bull,branded,3.37,16.84,11.23,exact,132.82,CAMP_012,2320.46,2024-01-01,2024-03-31
+PRD_005,KW_016,Limca 750Ml,Coca-Cola,Beverages,cold drink,generic,1.96,9.81,6.54,broad,47.32,CAMP_010,1366.11,2024-01-01,2024-03-31
+PRD_005,KW_017,Limca 750Ml,Coca-Cola,Beverages,fruit juice,generic,1.92,9.6,6.4,broad,69.71,CAMP_010,2485.53,2024-01-01,2024-03-31
+PRD_005,KW_018,Limca 750Ml,Coca-Cola,Beverages,mineral water,generic,1.2,6.02,4.01,broad,42.06,CAMP_010,1103.17,2024-01-01,2024-03-31
+PRD_005,KW_019,Limca 750Ml,Coca-Cola,Beverages,energy drink,generic,2.59,12.94,8.63,broad,94.56,CAMP_010,3727.96,2024-01-01,2024-03-31
+PRD_005,KW_020,Limca 750Ml,Coca-Cola,Beverages,tea powder,generic,1.62,8.12,5.41,broad,55.53,CAMP_010,1776.34,2024-01-01,2024-03-31
+PRD_005,KW_021,Limca 750Ml,Coca-Cola,Beverages,tata tea,branded,3.14,15.69,10.46,exact,159.5,CAMP_010,2987.57,2024-01-01,2024-03-31
+PRD_005,KW_022,Limca 750Ml,Coca-Cola,Beverages,nescafe,branded,4.36,21.81,14.54,exact,117.41,CAMP_010,1935.13,2024-01-01,2024-03-31
+PRD_005,KW_023,Limca 750Ml,Coca-Cola,Beverages,tropicana juice,branded,2.44,12.23,8.15,exact,142.41,CAMP_010,2560.2,2024-01-01,2024-03-31
+PRD_005,KW_024,Limca 750Ml,Coca-Cola,Beverages,maaza mango,branded,2.02,10.08,6.72,exact,145.61,CAMP_010,2640.13,2024-01-01,2024-03-31
+PRD_005,KW_025,Limca 750Ml,Coca-Cola,Beverages,red bull,branded,3.37,16.84,11.23,exact,102.18,CAMP_010,1554.56,2024-01-01,2024-03-31
+PRD_006,KW_016,Maaza Mango 600Ml,Coca-Cola,Beverages,cold drink,generic,1.96,9.81,6.54,broad,98.18,CAMP_011,3908.75,2024-01-01,2024-03-31
+PRD_006,KW_017,Maaza Mango 600Ml,Coca-Cola,Beverages,fruit juice,generic,1.92,9.6,6.4,broad,86.51,CAMP_011,3325.4,2024-01-01,2024-03-31
+PRD_006,KW_018,Maaza Mango 600Ml,Coca-Cola,Beverages,mineral water,generic,1.2,6.02,4.01,broad,96.37,CAMP_011,3818.5,2024-01-01,2024-03-31
+PRD_006,KW_019,Maaza Mango 600Ml,Coca-Cola,Beverages,energy drink,generic,2.59,12.94,8.63,broad,93.69,CAMP_011,3684.48,2024-01-01,2024-03-31
+PRD_006,KW_020,Maaza Mango 600Ml,Coca-Cola,Beverages,tea powder,generic,1.62,8.12,5.41,broad,75.87,CAMP_011,2793.7,2024-01-01,2024-03-31
+PRD_006,KW_021,Maaza Mango 600Ml,Coca-Cola,Beverages,tata tea,branded,3.14,15.69,10.46,exact,190.62,CAMP_011,3765.62,2024-01-01,2024-03-31
+PRD_006,KW_022,Maaza Mango 600Ml,Coca-Cola,Beverages,nescafe,branded,4.36,21.81,14.54,exact,90.62,CAMP_011,1265.48,2024-01-01,2024-03-31
+PRD_006,KW_023,Maaza Mango 600Ml,Coca-Cola,Beverages,tropicana juice,branded,2.44,12.23,8.15,exact,103.52,CAMP_011,1587.95,2024-01-01,2024-03-31
+PRD_006,KW_024,Maaza Mango 600Ml,Coca-Cola,Beverages,maaza mango,branded,2.02,10.08,6.72,exact,85.43,CAMP_011,1135.68,2024-01-01,2024-03-31
+PRD_006,KW_025,Maaza Mango 600Ml,Coca-Cola,Beverages,red bull,branded,3.37,16.84,11.23,exact,119.04,CAMP_011,1975.99,2024-01-01,2024-03-31
+PRD_007,KW_036,Dairy Milk Silk 60G,Cadbury,Confectionery,chocolate bar,generic,2.47,12.36,8.24,broad,63.32,CAMP_006,5554.71,2024-01-01,2024-03-31
+PRD_007,KW_037,Dairy Milk Silk 60G,Cadbury,Confectionery,wafer chocolate,long_tail,2.53,12.64,8.43,phrase,30.85,CAMP_006,5085.4,2024-01-01,2024-03-31
+PRD_007,KW_038,Dairy Milk Silk 60G,Cadbury,Confectionery,candy,generic,1.96,9.78,6.52,broad,89.72,CAMP_006,7314.95,2024-01-01,2024-03-31
+PRD_007,KW_039,Dairy Milk Silk 60G,Cadbury,Confectionery,toffee,generic,1.54,7.68,5.12,broad,61.41,CAMP_006,5427.01,2024-01-01,2024-03-31
+PRD_007,KW_040,Dairy Milk Silk 60G,Cadbury,Confectionery,low calorie snacks,long_tail,2.26,11.31,7.54,phrase,31.24,CAMP_006,5123.74,2024-01-01,2024-03-31
+PRD_007,KW_041,Dairy Milk Silk 60G,Cadbury,Confectionery,kitkat,branded,5.4,26.98,17.99,exact,145.12,CAMP_006,6170.78,2024-01-01,2024-03-31
+PRD_007,KW_042,Dairy Milk Silk 60G,Cadbury,Confectionery,dairy milk,branded,4.82,24.08,16.05,exact,96.91,CAMP_006,4563.7,2024-01-01,2024-03-31
+PRD_007,KW_043,Dairy Milk Silk 60G,Cadbury,Confectionery,munch chocolate,branded,2.96,14.79,9.86,exact,176.26,CAMP_006,7208.79,2024-01-01,2024-03-31
+PRD_007,KW_044,Dairy Milk Silk 60G,Cadbury,Confectionery,oreo biscuits,branded,3.32,16.58,11.05,exact,88.95,CAMP_006,4298.2,2024-01-01,2024-03-31
+PRD_007,KW_045,Dairy Milk Silk 60G,Cadbury,Confectionery,5 star chocolate,branded,2.47,12.33,8.22,exact,198.43,CAMP_006,7947.55,2024-01-01,2024-03-31
+PRD_008,KW_036,Milkybar 30G,Nestle,Confectionery,chocolate bar,generic,2.47,12.36,8.24,broad,86.33,CAMP_031,13405.71,2024-01-01,2024-03-31
+PRD_008,KW_037,Milkybar 30G,Nestle,Confectionery,wafer chocolate,long_tail,2.53,12.64,8.43,phrase,27.95,CAMP_031,9391.01,2024-01-01,2024-03-31
+PRD_008,KW_038,Milkybar 30G,Nestle,Confectionery,candy,generic,1.96,9.78,6.52,broad,40.33,CAMP_031,8038.65,2024-01-01,2024-03-31
+PRD_008,KW_039,Milkybar 30G,Nestle,Confectionery,toffee,generic,1.54,7.68,5.12,broad,88.93,CAMP_031,13708.23,2024-01-01,2024-03-31
+PRD_008,KW_040,Milkybar 30G,Nestle,Confectionery,low calorie snacks,long_tail,2.26,11.31,7.54,phrase,48.27,CAMP_031,12948.0,2024-01-01,2024-03-31
+PRD_008,KW_041,Milkybar 30G,Nestle,Confectionery,kitkat,branded,5.4,26.98,17.99,exact,167.48,CAMP_031,13103.05,2024-01-01,2024-03-31
+PRD_008,KW_042,Milkybar 30G,Nestle,Confectionery,dairy milk,branded,4.82,24.08,16.05,exact,172.55,CAMP_031,13398.89,2024-01-01,2024-03-31
+PRD_008,KW_043,Milkybar 30G,Nestle,Confectionery,munch chocolate,branded,2.96,14.79,9.86,exact,88.89,CAMP_031,8518.31,2024-01-01,2024-03-31
+PRD_008,KW_044,Milkybar 30G,Nestle,Confectionery,oreo biscuits,branded,3.32,16.58,11.05,exact,123.02,CAMP_031,10509.26,2024-01-01,2024-03-31
+PRD_008,KW_045,Milkybar 30G,Nestle,Confectionery,5 star chocolate,branded,2.47,12.33,8.22,exact,93.9,CAMP_031,8811.08,2024-01-01,2024-03-31
+PRD_009,KW_036,Kitkat 4F 41.5G,Nestle,Confectionery,chocolate bar,generic,2.47,12.36,8.24,broad,91.79,CAMP_029,14041.72,2024-01-01,2024-03-31
+PRD_009,KW_037,Kitkat 4F 41.5G,Nestle,Confectionery,wafer chocolate,long_tail,2.53,12.64,8.43,phrase,44.93,CAMP_029,12363.09,2024-01-01,2024-03-31
+PRD_009,KW_038,Kitkat 4F 41.5G,Nestle,Confectionery,candy,generic,1.96,9.78,6.52,broad,59.85,CAMP_029,10316.29,2024-01-01,2024-03-31
+PRD_009,KW_039,Kitkat 4F 41.5G,Nestle,Confectionery,toffee,generic,1.54,7.68,5.12,broad,43.81,CAMP_029,8444.91,2024-01-01,2024-03-31
+PRD_009,KW_040,Kitkat 4F 41.5G,Nestle,Confectionery,low calorie snacks,long_tail,2.26,11.31,7.54,phrase,32.44,CAMP_029,10176.88,2024-01-01,2024-03-31
+PRD_009,KW_041,Kitkat 4F 41.5G,Nestle,Confectionery,kitkat,branded,5.4,26.98,17.99,exact,119.02,CAMP_029,10276.28,2024-01-01,2024-03-31
+PRD_009,KW_042,Kitkat 4F 41.5G,Nestle,Confectionery,dairy milk,branded,4.82,24.08,16.05,exact,167.55,CAMP_029,13107.24,2024-01-01,2024-03-31
+PRD_009,KW_043,Kitkat 4F 41.5G,Nestle,Confectionery,munch chocolate,branded,2.96,14.79,9.86,exact,156.51,CAMP_029,12462.9,2024-01-01,2024-03-31
+PRD_009,KW_044,Kitkat 4F 41.5G,Nestle,Confectionery,oreo biscuits,branded,3.32,16.58,11.05,exact,186.47,CAMP_029,14210.49,2024-01-01,2024-03-31
+PRD_009,KW_045,Kitkat 4F 41.5G,Nestle,Confectionery,5 star chocolate,branded,2.47,12.33,8.22,exact,136.67,CAMP_029,11305.5,2024-01-01,2024-03-31
+PRD_010,KW_036,Eclairs Toffee 100G,Cadbury,Confectionery,chocolate bar,generic,2.47,12.36,8.24,broad,47.18,CAMP_007,4478.38,2024-01-01,2024-03-31
+PRD_010,KW_037,Eclairs Toffee 100G,Cadbury,Confectionery,wafer chocolate,long_tail,2.53,12.64,8.43,phrase,48.53,CAMP_007,6852.98,2024-01-01,2024-03-31
+PRD_010,KW_038,Eclairs Toffee 100G,Cadbury,Confectionery,candy,generic,1.96,9.78,6.52,broad,85.65,CAMP_007,7043.14,2024-01-01,2024-03-31
+PRD_010,KW_039,Eclairs Toffee 100G,Cadbury,Confectionery,toffee,generic,1.54,7.68,5.12,broad,73.68,CAMP_007,6245.11,2024-01-01,2024-03-31
+PRD_010,KW_040,Eclairs Toffee 100G,Cadbury,Confectionery,low calorie snacks,long_tail,2.26,11.31,7.54,phrase,50.84,CAMP_007,7083.87,2024-01-01,2024-03-31
+PRD_010,KW_041,Eclairs Toffee 100G,Cadbury,Confectionery,kitkat,branded,5.4,26.98,17.99,exact,139.26,CAMP_007,5975.18,2024-01-01,2024-03-31
+PRD_010,KW_042,Eclairs Toffee 100G,Cadbury,Confectionery,dairy milk,branded,4.82,24.08,16.05,exact,142.73,CAMP_007,6090.93,2024-01-01,2024-03-31
+PRD_010,KW_043,Eclairs Toffee 100G,Cadbury,Confectionery,munch chocolate,branded,2.96,14.79,9.86,exact,131.3,CAMP_007,5710.16,2024-01-01,2024-03-31
+PRD_010,KW_044,Eclairs Toffee 100G,Cadbury,Confectionery,oreo biscuits,branded,3.32,16.58,11.05,exact,83.05,CAMP_007,4101.68,2024-01-01,2024-03-31
+PRD_010,KW_045,Eclairs Toffee 100G,Cadbury,Confectionery,5 star chocolate,branded,2.47,12.33,8.22,exact,92.95,CAMP_007,4431.57,2024-01-01,2024-03-31
+PRD_011,KW_036,Munch 26G,Nestle,Confectionery,chocolate bar,generic,2.47,12.36,8.24,broad,41.89,CAMP_032,8220.0,2024-01-01,2024-03-31
+PRD_011,KW_037,Munch 26G,Nestle,Confectionery,wafer chocolate,long_tail,2.53,12.64,8.43,phrase,45.46,CAMP_032,12454.87,2024-01-01,2024-03-31
+PRD_011,KW_038,Munch 26G,Nestle,Confectionery,candy,generic,1.96,9.78,6.52,broad,58.86,CAMP_032,10200.49,2024-01-01,2024-03-31
+PRD_011,KW_039,Munch 26G,Nestle,Confectionery,toffee,generic,1.54,7.68,5.12,broad,70.51,CAMP_032,11559.99,2024-01-01,2024-03-31
+PRD_011,KW_040,Munch 26G,Nestle,Confectionery,low calorie snacks,long_tail,2.26,11.31,7.54,phrase,56.3,CAMP_032,14352.97,2024-01-01,2024-03-31
+PRD_011,KW_041,Munch 26G,Nestle,Confectionery,kitkat,branded,5.4,26.98,17.99,exact,109.92,CAMP_032,9745.05,2024-01-01,2024-03-31
+PRD_011,KW_042,Munch 26G,Nestle,Confectionery,dairy milk,branded,4.82,24.08,16.05,exact,129.25,CAMP_032,10872.68,2024-01-01,2024-03-31
+PRD_011,KW_043,Munch 26G,Nestle,Confectionery,munch chocolate,branded,2.96,14.79,9.86,exact,170.67,CAMP_032,13288.86,2024-01-01,2024-03-31
+PRD_011,KW_044,Munch 26G,Nestle,Confectionery,oreo biscuits,branded,3.32,16.58,11.05,exact,107.46,CAMP_032,9601.59,2024-01-01,2024-03-31
+PRD_011,KW_045,Munch 26G,Nestle,Confectionery,5 star chocolate,branded,2.47,12.33,8.22,exact,89.24,CAMP_032,8538.86,2024-01-01,2024-03-31
+PRD_012,KW_036,5 Star 40G,Cadbury,Confectionery,chocolate bar,generic,2.47,12.36,8.24,broad,57.39,CAMP_005,5159.01,2024-01-01,2024-03-31
+PRD_012,KW_037,5 Star 40G,Cadbury,Confectionery,wafer chocolate,long_tail,2.53,12.64,8.43,phrase,26.45,CAMP_005,4644.89,2024-01-01,2024-03-31
+PRD_012,KW_038,5 Star 40G,Cadbury,Confectionery,candy,generic,1.96,9.78,6.52,broad,95.78,CAMP_005,7718.79,2024-01-01,2024-03-31
+PRD_012,KW_039,5 Star 40G,Cadbury,Confectionery,toffee,generic,1.54,7.68,5.12,broad,88.49,CAMP_005,7232.48,2024-01-01,2024-03-31
+PRD_012,KW_040,5 Star 40G,Cadbury,Confectionery,low calorie snacks,long_tail,2.26,11.31,7.54,phrase,45.34,CAMP_005,6533.62,2024-01-01,2024-03-31
+PRD_012,KW_041,5 Star 40G,Cadbury,Confectionery,kitkat,branded,5.4,26.98,17.99,exact,184.58,CAMP_005,7485.84,2024-01-01,2024-03-31
+PRD_012,KW_042,5 Star 40G,Cadbury,Confectionery,dairy milk,branded,4.82,24.08,16.05,exact,176.44,CAMP_005,7214.69,2024-01-01,2024-03-31
+PRD_012,KW_043,5 Star 40G,Cadbury,Confectionery,munch chocolate,branded,2.96,14.79,9.86,exact,102.39,CAMP_005,4746.28,2024-01-01,2024-03-31
+PRD_012,KW_044,5 Star 40G,Cadbury,Confectionery,oreo biscuits,branded,3.32,16.58,11.05,exact,187.11,CAMP_005,7570.24,2024-01-01,2024-03-31
+PRD_012,KW_045,5 Star 40G,Cadbury,Confectionery,5 star chocolate,branded,2.47,12.33,8.22,exact,144.72,CAMP_005,6157.37,2024-01-01,2024-03-31
+PRD_013,KW_036,Perk 38G,Cadbury,Confectionery,chocolate bar,generic,2.47,12.36,8.24,broad,88.45,CAMP_009,7229.76,2024-01-01,2024-03-31
+PRD_013,KW_037,Perk 38G,Cadbury,Confectionery,wafer chocolate,long_tail,2.53,12.64,8.43,phrase,55.84,CAMP_009,7584.37,2024-01-01,2024-03-31
+PRD_013,KW_038,Perk 38G,Cadbury,Confectionery,candy,generic,1.96,9.78,6.52,broad,59.08,CAMP_009,5272.01,2024-01-01,2024-03-31
+PRD_013,KW_039,Perk 38G,Cadbury,Confectionery,toffee,generic,1.54,7.68,5.12,broad,46.6,CAMP_009,4440.21,2024-01-01,2024-03-31
+PRD_013,KW_040,Perk 38G,Cadbury,Confectionery,low calorie snacks,long_tail,2.26,11.31,7.54,phrase,29.12,CAMP_009,4911.74,2024-01-01,2024-03-31
+PRD_013,KW_041,Perk 38G,Cadbury,Confectionery,kitkat,branded,5.4,26.98,17.99,exact,131.25,CAMP_009,5708.43,2024-01-01,2024-03-31
+PRD_013,KW_042,Perk 38G,Cadbury,Confectionery,dairy milk,branded,4.82,24.08,16.05,exact,178.16,CAMP_009,7272.06,2024-01-01,2024-03-31
+PRD_013,KW_043,Perk 38G,Cadbury,Confectionery,munch chocolate,branded,2.96,14.79,9.86,exact,183.29,CAMP_009,7442.92,2024-01-01,2024-03-31
+PRD_013,KW_044,Perk 38G,Cadbury,Confectionery,oreo biscuits,branded,3.32,16.58,11.05,exact,80.83,CAMP_009,4027.81,2024-01-01,2024-03-31
+PRD_013,KW_045,Perk 38G,Cadbury,Confectionery,5 star chocolate,branded,2.47,12.33,8.22,exact,141.29,CAMP_009,6042.99,2024-01-01,2024-03-31
+PRD_014,KW_036,Gems 36G,Cadbury,Confectionery,chocolate bar,generic,2.47,12.36,8.24,broad,65.04,CAMP_008,5669.64,2024-01-01,2024-03-31
+PRD_014,KW_037,Gems 36G,Cadbury,Confectionery,wafer chocolate,long_tail,2.53,12.64,8.43,phrase,28.88,CAMP_008,4888.43,2024-01-01,2024-03-31
+PRD_014,KW_038,Gems 36G,Cadbury,Confectionery,candy,generic,1.96,9.78,6.52,broad,47.19,CAMP_008,4479.46,2024-01-01,2024-03-31
+PRD_014,KW_039,Gems 36G,Cadbury,Confectionery,toffee,generic,1.54,7.68,5.12,broad,60.26,CAMP_008,5350.46,2024-01-01,2024-03-31
+PRD_014,KW_040,Gems 36G,Cadbury,Confectionery,low calorie snacks,long_tail,2.26,11.31,7.54,phrase,57.72,CAMP_008,7771.64,2024-01-01,2024-03-31
+PRD_014,KW_041,Gems 36G,Cadbury,Confectionery,kitkat,branded,5.4,26.98,17.99,exact,118.78,CAMP_008,5292.81,2024-01-01,2024-03-31
+PRD_014,KW_042,Gems 36G,Cadbury,Confectionery,dairy milk,branded,4.82,24.08,16.05,exact,142.25,CAMP_008,6075.16,2024-01-01,2024-03-31
+PRD_014,KW_043,Gems 36G,Cadbury,Confectionery,munch chocolate,branded,2.96,14.79,9.86,exact,164.36,CAMP_008,6812.08,2024-01-01,2024-03-31
+PRD_014,KW_044,Gems 36G,Cadbury,Confectionery,oreo biscuits,branded,3.32,16.58,11.05,exact,123.64,CAMP_008,5454.52,2024-01-01,2024-03-31
+PRD_014,KW_045,Gems 36G,Cadbury,Confectionery,5 star chocolate,branded,2.47,12.33,8.22,exact,196.61,CAMP_008,7887.13,2024-01-01,2024-03-31
+PRD_015,KW_026,Amul Cheese Slices 200G,Amul,Dairy,butter,generic,1.42,7.1,4.73,broad,97.75,CAMP_002,7849.79,2024-01-01,2024-03-31
+PRD_015,KW_027,Amul Cheese Slices 200G,Amul,Dairy,paneer,generic,0.98,4.88,3.25,broad,55.11,CAMP_002,5007.13,2024-01-01,2024-03-31
+PRD_015,KW_028,Amul Cheese Slices 200G,Amul,Dairy,curd online,generic,1.1,5.49,3.66,broad,69.83,CAMP_002,5988.99,2024-01-01,2024-03-31
+PRD_015,KW_029,Amul Cheese Slices 200G,Amul,Dairy,cooking oil,generic,1.54,7.7,5.13,broad,58.05,CAMP_002,5203.51,2024-01-01,2024-03-31
+PRD_015,KW_030,Amul Cheese Slices 200G,Amul,Dairy,cheese slices,generic,1.39,6.93,4.62,broad,57.09,CAMP_002,5139.36,2024-01-01,2024-03-31
+PRD_015,KW_031,Amul Cheese Slices 200G,Amul,Dairy,amul butter,branded,2.3,11.48,7.65,exact,84.43,CAMP_002,4147.55,2024-01-01,2024-03-31
+PRD_015,KW_032,Amul Cheese Slices 200G,Amul,Dairy,amul cheese,branded,2.24,11.19,7.46,exact,153.15,CAMP_002,6438.26,2024-01-01,2024-03-31
+PRD_015,KW_033,Amul Cheese Slices 200G,Amul,Dairy,mother dairy curd,branded,1.88,9.42,6.28,exact,140.32,CAMP_002,6010.72,2024-01-01,2024-03-31
+PRD_015,KW_034,Amul Cheese Slices 200G,Amul,Dairy,fortune oil,branded,2.93,14.66,9.77,exact,86.18,CAMP_002,4205.92,2024-01-01,2024-03-31
+PRD_015,KW_035,Amul Cheese Slices 200G,Amul,Dairy,nestle milkmaid,branded,2.38,11.91,7.94,exact,113.44,CAMP_002,5114.59,2024-01-01,2024-03-31
+PRD_016,KW_026,Nestle Milkmaid 400G,Nestle,Dairy,butter,generic,1.42,7.1,4.73,broad,94.5,CAMP_033,14357.86,2024-01-01,2024-03-31
+PRD_016,KW_027,Nestle Milkmaid 400G,Nestle,Dairy,paneer,generic,0.98,4.88,3.25,broad,54.37,CAMP_033,9676.93,2024-01-01,2024-03-31
+PRD_016,KW_028,Nestle Milkmaid 400G,Nestle,Dairy,curd online,generic,1.1,5.49,3.66,broad,48.69,CAMP_033,9014.26,2024-01-01,2024-03-31
+PRD_016,KW_029,Nestle Milkmaid 400G,Nestle,Dairy,cooking oil,generic,1.54,7.7,5.13,broad,69.37,CAMP_033,11426.17,2024-01-01,2024-03-31
+PRD_016,KW_030,Nestle Milkmaid 400G,Nestle,Dairy,cheese slices,generic,1.39,6.93,4.62,broad,99.14,CAMP_033,14899.55,2024-01-01,2024-03-31
+PRD_016,KW_031,Nestle Milkmaid 400G,Nestle,Dairy,amul butter,branded,2.3,11.48,7.65,exact,109.05,CAMP_033,9694.39,2024-01-01,2024-03-31
+PRD_016,KW_032,Nestle Milkmaid 400G,Nestle,Dairy,amul cheese,branded,2.24,11.19,7.46,exact,160.66,CAMP_033,12704.95,2024-01-01,2024-03-31
+PRD_016,KW_033,Nestle Milkmaid 400G,Nestle,Dairy,mother dairy curd,branded,1.88,9.42,6.28,exact,171.39,CAMP_033,13331.34,2024-01-01,2024-03-31
+PRD_016,KW_034,Nestle Milkmaid 400G,Nestle,Dairy,fortune oil,branded,2.93,14.66,9.77,exact,108.52,CAMP_033,9663.46,2024-01-01,2024-03-31
+PRD_016,KW_035,Nestle Milkmaid 400G,Nestle,Dairy,nestle milkmaid,branded,2.38,11.91,7.94,exact,167.39,CAMP_033,13097.51,2024-01-01,2024-03-31
+PRD_017,KW_026,Amul Butter 500G,Amul,Dairy,butter,generic,1.42,7.1,4.73,broad,62.07,CAMP_001,5471.13,2024-01-01,2024-03-31
+PRD_017,KW_027,Amul Butter 500G,Amul,Dairy,paneer,generic,0.98,4.88,3.25,broad,77.94,CAMP_001,6529.22,2024-01-01,2024-03-31
+PRD_017,KW_028,Amul Butter 500G,Amul,Dairy,curd online,generic,1.1,5.49,3.66,broad,78.01,CAMP_001,6534.12,2024-01-01,2024-03-31
+PRD_017,KW_029,Amul Butter 500G,Amul,Dairy,cooking oil,generic,1.54,7.7,5.13,broad,72.15,CAMP_001,6143.1,2024-01-01,2024-03-31
+PRD_017,KW_030,Amul Butter 500G,Amul,Dairy,cheese slices,generic,1.39,6.93,4.62,broad,45.42,CAMP_001,4361.16,2024-01-01,2024-03-31
+PRD_017,KW_031,Amul Butter 500G,Amul,Dairy,amul butter,branded,2.3,11.48,7.65,exact,180.24,CAMP_001,7341.21,2024-01-01,2024-03-31
+PRD_017,KW_032,Amul Butter 500G,Amul,Dairy,amul cheese,branded,2.24,11.19,7.46,exact,118.49,CAMP_001,5283.12,2024-01-01,2024-03-31
+PRD_017,KW_033,Amul Butter 500G,Amul,Dairy,mother dairy curd,branded,1.88,9.42,6.28,exact,102.38,CAMP_001,4746.07,2024-01-01,2024-03-31
+PRD_017,KW_034,Amul Butter 500G,Amul,Dairy,fortune oil,branded,2.93,14.66,9.77,exact,84.89,CAMP_001,4163.1,2024-01-01,2024-03-31
+PRD_017,KW_035,Amul Butter 500G,Amul,Dairy,nestle milkmaid,branded,2.38,11.91,7.94,exact,150.91,CAMP_001,6363.57,2024-01-01,2024-03-31
+PRD_018,KW_026,Mother Dairy Curd 400G,Mother Dairy,Dairy,butter,generic,1.42,7.1,4.73,broad,80.65,CAMP_028,3032.69,2024-01-01,2024-03-31
+PRD_018,KW_027,Mother Dairy Curd 400G,Mother Dairy,Dairy,paneer,generic,0.98,4.88,3.25,broad,41.0,CAMP_028,1049.76,2024-01-01,2024-03-31
+PRD_018,KW_028,Mother Dairy Curd 400G,Mother Dairy,Dairy,curd online,generic,1.1,5.49,3.66,broad,70.73,CAMP_028,2536.28,2024-01-01,2024-03-31
+PRD_018,KW_029,Mother Dairy Curd 400G,Mother Dairy,Dairy,cooking oil,generic,1.54,7.7,5.13,broad,53.59,CAMP_028,1679.49,2024-01-01,2024-03-31
+PRD_018,KW_030,Mother Dairy Curd 400G,Mother Dairy,Dairy,cheese slices,generic,1.39,6.93,4.62,broad,78.71,CAMP_028,2935.52,2024-01-01,2024-03-31
+PRD_018,KW_031,Mother Dairy Curd 400G,Mother Dairy,Dairy,amul butter,branded,2.3,11.48,7.65,exact,100.92,CAMP_028,1523.1,2024-01-01,2024-03-31
+PRD_018,KW_032,Mother Dairy Curd 400G,Mother Dairy,Dairy,amul cheese,branded,2.24,11.19,7.46,exact,162.91,CAMP_028,3072.81,2024-01-01,2024-03-31
+PRD_018,KW_033,Mother Dairy Curd 400G,Mother Dairy,Dairy,mother dairy curd,branded,1.88,9.42,6.28,exact,126.41,CAMP_028,2160.21,2024-01-01,2024-03-31
+PRD_018,KW_034,Mother Dairy Curd 400G,Mother Dairy,Dairy,fortune oil,branded,2.93,14.66,9.77,exact,192.41,CAMP_028,3810.19,2024-01-01,2024-03-31
+PRD_018,KW_035,Mother Dairy Curd 400G,Mother Dairy,Dairy,nestle milkmaid,branded,2.38,11.91,7.94,exact,96.5,CAMP_028,1412.56,2024-01-01,2024-03-31
+PRD_019,KW_046,Dove Soap 100G,HUL,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,60.46,CAMP_018,10387.46,2024-01-01,2024-03-31
+PRD_019,KW_047,Dove Soap 100G,HUL,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,46.81,CAMP_018,8794.31,2024-01-01,2024-03-31
+PRD_019,KW_048,Dove Soap 100G,HUL,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,95.48,CAMP_018,14472.86,2024-01-01,2024-03-31
+PRD_019,KW_049,Dove Soap 100G,HUL,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,55.09,CAMP_018,14141.38,2024-01-01,2024-03-31
+PRD_019,KW_050,Dove Soap 100G,HUL,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,30.32,CAMP_018,9805.59,2024-01-01,2024-03-31
+PRD_019,KW_051,Dove Soap 100G,HUL,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,159.2,CAMP_018,12619.89,2024-01-01,2024-03-31
+PRD_019,KW_052,Dove Soap 100G,HUL,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,178.07,CAMP_018,13720.56,2024-01-01,2024-03-31
+PRD_019,KW_053,Dove Soap 100G,HUL,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,146.62,CAMP_018,11886.41,2024-01-01,2024-03-31
+PRD_019,KW_054,Dove Soap 100G,HUL,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,143.56,CAMP_018,11707.55,2024-01-01,2024-03-31
+PRD_019,KW_055,Dove Soap 100G,HUL,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,109.02,CAMP_018,9692.97,2024-01-01,2024-03-31
+PRD_020,KW_046,Closeup Toothpaste 150G,HUL,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,45.59,CAMP_016,8651.72,2024-01-01,2024-03-31
+PRD_020,KW_047,Closeup Toothpaste 150G,HUL,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,93.83,CAMP_016,14280.51,2024-01-01,2024-03-31
+PRD_020,KW_048,Closeup Toothpaste 150G,HUL,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,94.03,CAMP_016,14302.93,2024-01-01,2024-03-31
+PRD_020,KW_049,Closeup Toothpaste 150G,HUL,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,45.32,CAMP_016,12431.71,2024-01-01,2024-03-31
+PRD_020,KW_050,Closeup Toothpaste 150G,HUL,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,33.56,CAMP_016,10373.21,2024-01-01,2024-03-31
+PRD_020,KW_051,Closeup Toothpaste 150G,HUL,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,121.91,CAMP_016,10444.47,2024-01-01,2024-03-31
+PRD_020,KW_052,Closeup Toothpaste 150G,HUL,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,167.11,CAMP_016,13081.69,2024-01-01,2024-03-31
+PRD_020,KW_053,Closeup Toothpaste 150G,HUL,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,187.65,CAMP_016,14279.77,2024-01-01,2024-03-31
+PRD_020,KW_054,Closeup Toothpaste 150G,HUL,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,186.45,CAMP_016,14209.6,2024-01-01,2024-03-31
+PRD_020,KW_055,Closeup Toothpaste 150G,HUL,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,173.59,CAMP_016,13459.13,2024-01-01,2024-03-31
+PRD_021,KW_046,Colgate Toothpaste 200G,Colgate,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,78.52,CAMP_014,2926.09,2024-01-01,2024-03-31
+PRD_021,KW_047,Colgate Toothpaste 200G,Colgate,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,45.05,CAMP_014,1252.42,2024-01-01,2024-03-31
+PRD_021,KW_048,Colgate Toothpaste 200G,Colgate,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,49.7,CAMP_014,1484.89,2024-01-01,2024-03-31
+PRD_021,KW_049,Colgate Toothpaste 200G,Colgate,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,55.94,CAMP_014,3695.66,2024-01-01,2024-03-31
+PRD_021,KW_050,Colgate Toothpaste 200G,Colgate,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,44.26,CAMP_014,2819.29,2024-01-01,2024-03-31
+PRD_021,KW_051,Colgate Toothpaste 200G,Colgate,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,81.1,CAMP_014,1027.59,2024-01-01,2024-03-31
+PRD_021,KW_052,Colgate Toothpaste 200G,Colgate,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,92.18,CAMP_014,1304.41,2024-01-01,2024-03-31
+PRD_021,KW_053,Colgate Toothpaste 200G,Colgate,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,159.62,CAMP_014,2990.51,2024-01-01,2024-03-31
+PRD_021,KW_054,Colgate Toothpaste 200G,Colgate,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,80.61,CAMP_014,1015.18,2024-01-01,2024-03-31
+PRD_021,KW_055,Colgate Toothpaste 200G,Colgate,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,99.3,CAMP_014,1482.42,2024-01-01,2024-03-31
+PRD_022,KW_046,Lux Soap 100G,HUL,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,72.92,CAMP_019,11841.14,2024-01-01,2024-03-31
+PRD_022,KW_047,Lux Soap 100G,HUL,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,81.51,CAMP_019,12843.27,2024-01-01,2024-03-31
+PRD_022,KW_048,Lux Soap 100G,HUL,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,79.12,CAMP_019,12563.73,2024-01-01,2024-03-31
+PRD_022,KW_049,Lux Soap 100G,HUL,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,28.97,CAMP_019,9569.89,2024-01-01,2024-03-31
+PRD_022,KW_050,Lux Soap 100G,HUL,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,48.49,CAMP_019,12985.25,2024-01-01,2024-03-31
+PRD_022,KW_051,Lux Soap 100G,HUL,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,108.47,CAMP_019,9660.74,2024-01-01,2024-03-31
+PRD_022,KW_052,Lux Soap 100G,HUL,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,119.05,CAMP_019,10277.8,2024-01-01,2024-03-31
+PRD_022,KW_053,Lux Soap 100G,HUL,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,169.58,CAMP_019,13225.44,2024-01-01,2024-03-31
+PRD_022,KW_054,Lux Soap 100G,HUL,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,157.96,CAMP_019,12547.43,2024-01-01,2024-03-31
+PRD_022,KW_055,Lux Soap 100G,HUL,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,181.91,CAMP_019,13944.56,2024-01-01,2024-03-31
+PRD_023,KW_046,Dove Shampoo 340Ml,HUL,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,79.46,CAMP_017,12603.29,2024-01-01,2024-03-31
+PRD_023,KW_047,Dove Shampoo 340Ml,HUL,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,74.1,CAMP_017,11978.16,2024-01-01,2024-03-31
+PRD_023,KW_048,Dove Shampoo 340Ml,HUL,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,45.62,CAMP_017,8655.72,2024-01-01,2024-03-31
+PRD_023,KW_049,Dove Shampoo 340Ml,HUL,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,34.71,CAMP_017,10574.01,2024-01-01,2024-03-31
+PRD_023,KW_050,Dove Shampoo 340Ml,HUL,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,30.61,CAMP_017,9856.42,2024-01-01,2024-03-31
+PRD_023,KW_051,Dove Shampoo 340Ml,HUL,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,109.28,CAMP_017,9707.93,2024-01-01,2024-03-31
+PRD_023,KW_052,Dove Shampoo 340Ml,HUL,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,196.76,CAMP_017,14811.07,2024-01-01,2024-03-31
+PRD_023,KW_053,Dove Shampoo 340Ml,HUL,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,127.17,CAMP_017,10751.68,2024-01-01,2024-03-31
+PRD_023,KW_054,Dove Shampoo 340Ml,HUL,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,187.05,CAMP_017,14244.33,2024-01-01,2024-03-31
+PRD_023,KW_055,Dove Shampoo 340Ml,HUL,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,155.74,CAMP_017,12417.97,2024-01-01,2024-03-31
+PRD_024,KW_046,Pantene Shampoo 340Ml,P&G,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,87.69,CAMP_035,13563.68,2024-01-01,2024-03-31
+PRD_024,KW_047,Pantene Shampoo 340Ml,P&G,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,70.16,CAMP_035,11518.46,2024-01-01,2024-03-31
+PRD_024,KW_048,Pantene Shampoo 340Ml,P&G,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,74.61,CAMP_035,12038.33,2024-01-01,2024-03-31
+PRD_024,KW_049,Pantene Shampoo 340Ml,P&G,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,39.7,CAMP_035,11447.62,2024-01-01,2024-03-31
+PRD_024,KW_050,Pantene Shampoo 340Ml,P&G,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,27.81,CAMP_035,9366.7,2024-01-01,2024-03-31
+PRD_024,KW_051,Pantene Shampoo 340Ml,P&G,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,166.69,CAMP_035,13057.16,2024-01-01,2024-03-31
+PRD_024,KW_052,Pantene Shampoo 340Ml,P&G,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,113.69,CAMP_035,9965.41,2024-01-01,2024-03-31
+PRD_024,KW_053,Pantene Shampoo 340Ml,P&G,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,82.92,CAMP_035,8170.21,2024-01-01,2024-03-31
+PRD_024,KW_054,Pantene Shampoo 340Ml,P&G,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,157.46,CAMP_035,12518.31,2024-01-01,2024-03-31
+PRD_024,KW_055,Pantene Shampoo 340Ml,P&G,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,101.25,CAMP_035,9239.77,2024-01-01,2024-03-31
+PRD_025,KW_046,Ariel Matic Detergent 1Kg,P&G,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,96.43,CAMP_034,14583.21,2024-01-01,2024-03-31
+PRD_025,KW_047,Ariel Matic Detergent 1Kg,P&G,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,97.24,CAMP_034,14677.5,2024-01-01,2024-03-31
+PRD_025,KW_048,Ariel Matic Detergent 1Kg,P&G,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,94.89,CAMP_034,14404.05,2024-01-01,2024-03-31
+PRD_025,KW_049,Ariel Matic Detergent 1Kg,P&G,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,34.81,CAMP_034,10591.11,2024-01-01,2024-03-31
+PRD_025,KW_050,Ariel Matic Detergent 1Kg,P&G,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,20.62,CAMP_034,8108.2,2024-01-01,2024-03-31
+PRD_025,KW_051,Ariel Matic Detergent 1Kg,P&G,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,191.4,CAMP_034,14498.23,2024-01-01,2024-03-31
+PRD_025,KW_052,Ariel Matic Detergent 1Kg,P&G,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,131.38,CAMP_034,10997.29,2024-01-01,2024-03-31
+PRD_025,KW_053,Ariel Matic Detergent 1Kg,P&G,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,196.0,CAMP_034,14766.58,2024-01-01,2024-03-31
+PRD_025,KW_054,Ariel Matic Detergent 1Kg,P&G,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,195.63,CAMP_034,14745.34,2024-01-01,2024-03-31
+PRD_025,KW_055,Ariel Matic Detergent 1Kg,P&G,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,182.36,CAMP_034,13971.07,2024-01-01,2024-03-31
+PRD_026,KW_046,Pears Soap 100G,HUL,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,57.67,CAMP_020,10061.14,2024-01-01,2024-03-31
+PRD_026,KW_047,Pears Soap 100G,HUL,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,63.11,CAMP_020,10695.68,2024-01-01,2024-03-31
+PRD_026,KW_048,Pears Soap 100G,HUL,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,91.07,CAMP_020,13957.96,2024-01-01,2024-03-31
+PRD_026,KW_049,Pears Soap 100G,HUL,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,32.68,CAMP_020,10218.45,2024-01-01,2024-03-31
+PRD_026,KW_050,Pears Soap 100G,HUL,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,26.78,CAMP_020,9186.45,2024-01-01,2024-03-31
+PRD_026,KW_051,Pears Soap 100G,HUL,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,146.82,CAMP_020,11897.61,2024-01-01,2024-03-31
+PRD_026,KW_052,Pears Soap 100G,HUL,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,192.34,CAMP_020,14553.08,2024-01-01,2024-03-31
+PRD_026,KW_053,Pears Soap 100G,HUL,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,163.52,CAMP_020,12872.21,2024-01-01,2024-03-31
+PRD_026,KW_054,Pears Soap 100G,HUL,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,148.41,CAMP_020,11990.43,2024-01-01,2024-03-31
+PRD_026,KW_055,Pears Soap 100G,HUL,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,91.66,CAMP_020,8680.24,2024-01-01,2024-03-31
+PRD_027,KW_046,Vaseline Body Lotion 400Ml,HUL,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,76.9,CAMP_022,12305.05,2024-01-01,2024-03-31
+PRD_027,KW_047,Vaseline Body Lotion 400Ml,HUL,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,99.4,CAMP_022,14930.38,2024-01-01,2024-03-31
+PRD_027,KW_048,Vaseline Body Lotion 400Ml,HUL,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,48.41,CAMP_022,8980.59,2024-01-01,2024-03-31
+PRD_027,KW_049,Vaseline Body Lotion 400Ml,HUL,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,40.73,CAMP_022,11628.31,2024-01-01,2024-03-31
+PRD_027,KW_050,Vaseline Body Lotion 400Ml,HUL,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,55.09,CAMP_022,14141.61,2024-01-01,2024-03-31
+PRD_027,KW_051,Vaseline Body Lotion 400Ml,HUL,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,168.89,CAMP_022,13185.38,2024-01-01,2024-03-31
+PRD_027,KW_052,Vaseline Body Lotion 400Ml,HUL,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,163.64,CAMP_022,12879.11,2024-01-01,2024-03-31
+PRD_027,KW_053,Vaseline Body Lotion 400Ml,HUL,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,164.3,CAMP_022,12917.39,2024-01-01,2024-03-31
+PRD_027,KW_054,Vaseline Body Lotion 400Ml,HUL,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,123.14,CAMP_022,10516.44,2024-01-01,2024-03-31
+PRD_027,KW_055,Vaseline Body Lotion 400Ml,HUL,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,115.23,CAMP_022,10055.14,2024-01-01,2024-03-31
+PRD_028,KW_046,Pepsodent Toothpaste 150G,HUL,Personal Care,bathing soap,generic,1.82,9.09,6.06,broad,88.56,CAMP_021,13665.53,2024-01-01,2024-03-31
+PRD_028,KW_047,Pepsodent Toothpaste 150G,HUL,Personal Care,shampoo,generic,3.08,15.4,10.27,broad,88.61,CAMP_021,13670.79,2024-01-01,2024-03-31
+PRD_028,KW_048,Pepsodent Toothpaste 150G,HUL,Personal Care,detergent powder,generic,2.59,12.94,8.63,broad,92.02,CAMP_021,14069.51,2024-01-01,2024-03-31
+PRD_028,KW_049,Pepsodent Toothpaste 150G,HUL,Personal Care,anti dandruff shampoo,long_tail,2.71,13.53,9.02,phrase,56.53,CAMP_021,14392.68,2024-01-01,2024-03-31
+PRD_028,KW_050,Pepsodent Toothpaste 150G,HUL,Personal Care,baby soap,long_tail,2.95,14.73,9.82,phrase,40.45,CAMP_021,11579.4,2024-01-01,2024-03-31
+PRD_028,KW_051,Pepsodent Toothpaste 150G,HUL,Personal Care,dove soap,branded,3.75,18.75,12.5,exact,140.18,CAMP_021,11510.61,2024-01-01,2024-03-31
+PRD_028,KW_052,Pepsodent Toothpaste 150G,HUL,Personal Care,pantene shampoo,branded,4.45,22.23,14.82,exact,175.8,CAMP_021,13588.07,2024-01-01,2024-03-31
+PRD_028,KW_053,Pepsodent Toothpaste 150G,HUL,Personal Care,surf excel,branded,5.25,26.26,17.51,exact,158.0,CAMP_021,12549.75,2024-01-01,2024-03-31
+PRD_028,KW_054,Pepsodent Toothpaste 150G,HUL,Personal Care,ariel detergent,branded,4.04,20.19,13.46,exact,164.24,CAMP_021,12913.77,2024-01-01,2024-03-31
+PRD_028,KW_055,Pepsodent Toothpaste 150G,HUL,Personal Care,head and shoulders,branded,3.64,18.23,12.15,exact,175.5,CAMP_021,13570.55,2024-01-01,2024-03-31
+PRD_029,KW_001,Yippee Magic Masala 65G,ITC,Snacks,chips,generic,2.65,13.26,8.84,broad,93.4,CAMP_026,7560.02,2024-01-01,2024-03-31
+PRD_029,KW_002,Yippee Magic Masala 65G,ITC,Snacks,namkeen,generic,1.55,7.77,5.18,broad,60.28,CAMP_026,5351.98,2024-01-01,2024-03-31
+PRD_029,KW_003,Yippee Magic Masala 65G,ITC,Snacks,biscuits,generic,1.62,8.08,5.39,broad,62.53,CAMP_026,5502.33,2024-01-01,2024-03-31
+PRD_029,KW_004,Yippee Magic Masala 65G,ITC,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,45.64,CAMP_026,4375.93,2024-01-01,2024-03-31
+PRD_029,KW_005,Yippee Magic Masala 65G,ITC,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,43.13,CAMP_026,6313.12,2024-01-01,2024-03-31
+PRD_029,KW_006,Yippee Magic Masala 65G,ITC,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,21.44,CAMP_026,4143.77,2024-01-01,2024-03-31
+PRD_029,KW_007,Yippee Magic Masala 65G,ITC,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,38.62,CAMP_026,5862.39,2024-01-01,2024-03-31
+PRD_029,KW_008,Yippee Magic Masala 65G,ITC,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,41.71,CAMP_026,6170.58,2024-01-01,2024-03-31
+PRD_029,KW_009,Yippee Magic Masala 65G,ITC,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,31.46,CAMP_026,5146.17,2024-01-01,2024-03-31
+PRD_029,KW_010,Yippee Magic Masala 65G,ITC,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,43.63,CAMP_026,6363.33,2024-01-01,2024-03-31
+PRD_029,KW_011,Yippee Magic Masala 65G,ITC,Snacks,lays chips,branded,4.23,21.14,14.09,exact,83.66,CAMP_026,4122.0,2024-01-01,2024-03-31
+PRD_029,KW_012,Yippee Magic Masala 65G,ITC,Snacks,kurkure,branded,3.38,16.92,11.28,exact,84.48,CAMP_026,4149.39,2024-01-01,2024-03-31
+PRD_029,KW_013,Yippee Magic Masala 65G,ITC,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,178.71,CAMP_026,7290.4,2024-01-01,2024-03-31
+PRD_029,KW_014,Yippee Magic Masala 65G,ITC,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,123.22,CAMP_026,5440.76,2024-01-01,2024-03-31
+PRD_029,KW_015,Yippee Magic Masala 65G,ITC,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,95.25,CAMP_026,4508.24,2024-01-01,2024-03-31
+PRD_030,KW_001,Maggi 2-Min Noodles 70G,Nestle,Snacks,chips,generic,2.65,13.26,8.84,broad,71.33,CAMP_030,11655.7,2024-01-01,2024-03-31
+PRD_030,KW_002,Maggi 2-Min Noodles 70G,Nestle,Snacks,namkeen,generic,1.55,7.77,5.18,broad,86.2,CAMP_030,13389.95,2024-01-01,2024-03-31
+PRD_030,KW_003,Maggi 2-Min Noodles 70G,Nestle,Snacks,biscuits,generic,1.62,8.08,5.39,broad,52.95,CAMP_030,9510.75,2024-01-01,2024-03-31
+PRD_030,KW_004,Maggi 2-Min Noodles 70G,Nestle,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,77.37,CAMP_030,12360.23,2024-01-01,2024-03-31
+PRD_030,KW_005,Maggi 2-Min Noodles 70G,Nestle,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,23.41,CAMP_030,8597.43,2024-01-01,2024-03-31
+PRD_030,KW_006,Maggi 2-Min Noodles 70G,Nestle,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,22.07,CAMP_030,8361.77,2024-01-01,2024-03-31
+PRD_030,KW_007,Maggi 2-Min Noodles 70G,Nestle,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,41.25,CAMP_030,11719.48,2024-01-01,2024-03-31
+PRD_030,KW_008,Maggi 2-Min Noodles 70G,Nestle,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,41.63,CAMP_030,11784.45,2024-01-01,2024-03-31
+PRD_030,KW_009,Maggi 2-Min Noodles 70G,Nestle,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,45.5,CAMP_030,12462.01,2024-01-01,2024-03-31
+PRD_030,KW_010,Maggi 2-Min Noodles 70G,Nestle,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,49.04,CAMP_030,13082.64,2024-01-01,2024-03-31
+PRD_030,KW_011,Maggi 2-Min Noodles 70G,Nestle,Snacks,lays chips,branded,4.23,21.14,14.09,exact,197.1,CAMP_030,14830.96,2024-01-01,2024-03-31
+PRD_030,KW_012,Maggi 2-Min Noodles 70G,Nestle,Snacks,kurkure,branded,3.38,16.92,11.28,exact,141.96,CAMP_030,11614.1,2024-01-01,2024-03-31
+PRD_030,KW_013,Maggi 2-Min Noodles 70G,Nestle,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,118.75,CAMP_030,10260.7,2024-01-01,2024-03-31
+PRD_030,KW_014,Maggi 2-Min Noodles 70G,Nestle,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,175.42,CAMP_030,13566.3,2024-01-01,2024-03-31
+PRD_030,KW_015,Maggi 2-Min Noodles 70G,Nestle,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,112.5,CAMP_030,9895.83,2024-01-01,2024-03-31
+PRD_031,KW_001,Lay'S Classic 26G,PepsiCo,Snacks,chips,generic,2.65,13.26,8.84,broad,66.34,CAMP_037,11072.8,2024-01-01,2024-03-31
+PRD_031,KW_002,Lay'S Classic 26G,PepsiCo,Snacks,namkeen,generic,1.55,7.77,5.18,broad,44.71,CAMP_037,8549.19,2024-01-01,2024-03-31
+PRD_031,KW_003,Lay'S Classic 26G,PepsiCo,Snacks,biscuits,generic,1.62,8.08,5.39,broad,41.52,CAMP_037,8177.46,2024-01-01,2024-03-31
+PRD_031,KW_004,Lay'S Classic 26G,PepsiCo,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,97.76,CAMP_037,14738.54,2024-01-01,2024-03-31
+PRD_031,KW_005,Lay'S Classic 26G,PepsiCo,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,53.44,CAMP_037,13851.86,2024-01-01,2024-03-31
+PRD_031,KW_006,Lay'S Classic 26G,PepsiCo,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,47.84,CAMP_037,12871.82,2024-01-01,2024-03-31
+PRD_031,KW_007,Lay'S Classic 26G,PepsiCo,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,36.36,CAMP_037,10862.67,2024-01-01,2024-03-31
+PRD_031,KW_008,Lay'S Classic 26G,PepsiCo,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,26.93,CAMP_037,9213.06,2024-01-01,2024-03-31
+PRD_031,KW_009,Lay'S Classic 26G,PepsiCo,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,26.26,CAMP_037,9095.06,2024-01-01,2024-03-31
+PRD_031,KW_010,Lay'S Classic 26G,PepsiCo,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,30.01,CAMP_037,9751.7,2024-01-01,2024-03-31
+PRD_031,KW_011,Lay'S Classic 26G,PepsiCo,Snacks,lays chips,branded,4.23,21.14,14.09,exact,145.91,CAMP_037,11844.59,2024-01-01,2024-03-31
+PRD_031,KW_012,Lay'S Classic 26G,PepsiCo,Snacks,kurkure,branded,3.38,16.92,11.28,exact,165.75,CAMP_037,13002.17,2024-01-01,2024-03-31
+PRD_031,KW_013,Lay'S Classic 26G,PepsiCo,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,159.22,CAMP_037,12621.38,2024-01-01,2024-03-31
+PRD_031,KW_014,Lay'S Classic 26G,PepsiCo,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,113.59,CAMP_037,9959.54,2024-01-01,2024-03-31
+PRD_031,KW_015,Lay'S Classic 26G,PepsiCo,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,194.58,CAMP_037,14684.06,2024-01-01,2024-03-31
+PRD_032,KW_001,Good Day Cashew 100G,Britannia,Snacks,chips,generic,2.65,13.26,8.84,broad,84.27,CAMP_004,6951.59,2024-01-01,2024-03-31
+PRD_032,KW_002,Good Day Cashew 100G,Britannia,Snacks,namkeen,generic,1.55,7.77,5.18,broad,73.26,CAMP_004,6217.42,2024-01-01,2024-03-31
+PRD_032,KW_003,Good Day Cashew 100G,Britannia,Snacks,biscuits,generic,1.62,8.08,5.39,broad,76.7,CAMP_004,6446.88,2024-01-01,2024-03-31
+PRD_032,KW_004,Good Day Cashew 100G,Britannia,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,65.18,CAMP_004,5678.4,2024-01-01,2024-03-31
+PRD_032,KW_005,Good Day Cashew 100G,Britannia,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,29.91,CAMP_004,4990.92,2024-01-01,2024-03-31
+PRD_032,KW_006,Good Day Cashew 100G,Britannia,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,34.24,CAMP_004,5423.89,2024-01-01,2024-03-31
+PRD_032,KW_007,Good Day Cashew 100G,Britannia,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,50.31,CAMP_004,7031.38,2024-01-01,2024-03-31
+PRD_032,KW_008,Good Day Cashew 100G,Britannia,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,20.58,CAMP_004,4057.57,2024-01-01,2024-03-31
+PRD_032,KW_009,Good Day Cashew 100G,Britannia,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,24.64,CAMP_004,4464.29,2024-01-01,2024-03-31
+PRD_032,KW_010,Good Day Cashew 100G,Britannia,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,21.84,CAMP_004,4184.01,2024-01-01,2024-03-31
+PRD_032,KW_011,Good Day Cashew 100G,Britannia,Snacks,lays chips,branded,4.23,21.14,14.09,exact,84.89,CAMP_004,4162.92,2024-01-01,2024-03-31
+PRD_032,KW_012,Good Day Cashew 100G,Britannia,Snacks,kurkure,branded,3.38,16.92,11.28,exact,182.66,CAMP_004,7421.84,2024-01-01,2024-03-31
+PRD_032,KW_013,Good Day Cashew 100G,Britannia,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,164.44,CAMP_004,6814.63,2024-01-01,2024-03-31
+PRD_032,KW_014,Good Day Cashew 100G,Britannia,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,136.9,CAMP_004,5896.7,2024-01-01,2024-03-31
+PRD_032,KW_015,Good Day Cashew 100G,Britannia,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,91.74,CAMP_004,4391.34,2024-01-01,2024-03-31
+PRD_033,KW_001,Britannia Nutrichoice,Britannia,Snacks,chips,generic,2.65,13.26,8.84,broad,69.5,CAMP_003,5966.46,2024-01-01,2024-03-31
+PRD_033,KW_002,Britannia Nutrichoice,Britannia,Snacks,namkeen,generic,1.55,7.77,5.18,broad,68.41,CAMP_003,5893.89,2024-01-01,2024-03-31
+PRD_033,KW_003,Britannia Nutrichoice,Britannia,Snacks,biscuits,generic,1.62,8.08,5.39,broad,50.39,CAMP_003,4692.81,2024-01-01,2024-03-31
+PRD_033,KW_004,Britannia Nutrichoice,Britannia,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,66.03,CAMP_003,5735.41,2024-01-01,2024-03-31
+PRD_033,KW_005,Britannia Nutrichoice,Britannia,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,35.94,CAMP_003,5594.02,2024-01-01,2024-03-31
+PRD_033,KW_006,Britannia Nutrichoice,Britannia,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,44.63,CAMP_003,6463.4,2024-01-01,2024-03-31
+PRD_033,KW_007,Britannia Nutrichoice,Britannia,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,45.4,CAMP_003,6540.37,2024-01-01,2024-03-31
+PRD_033,KW_008,Britannia Nutrichoice,Britannia,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,21.81,CAMP_003,4181.22,2024-01-01,2024-03-31
+PRD_033,KW_009,Britannia Nutrichoice,Britannia,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,34.98,CAMP_003,5498.45,2024-01-01,2024-03-31
+PRD_033,KW_010,Britannia Nutrichoice,Britannia,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,45.03,CAMP_003,6503.44,2024-01-01,2024-03-31
+PRD_033,KW_011,Britannia Nutrichoice,Britannia,Snacks,lays chips,branded,4.23,21.14,14.09,exact,140.38,CAMP_003,6012.55,2024-01-01,2024-03-31
+PRD_033,KW_012,Britannia Nutrichoice,Britannia,Snacks,kurkure,branded,3.38,16.92,11.28,exact,182.78,CAMP_003,7425.96,2024-01-01,2024-03-31
+PRD_033,KW_013,Britannia Nutrichoice,Britannia,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,159.04,CAMP_003,6634.77,2024-01-01,2024-03-31
+PRD_033,KW_014,Britannia Nutrichoice,Britannia,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,99.55,CAMP_003,4651.74,2024-01-01,2024-03-31
+PRD_033,KW_015,Britannia Nutrichoice,Britannia,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,88.47,CAMP_003,4282.27,2024-01-01,2024-03-31
+PRD_034,KW_001,Bingo Mad Angles 75G,ITC,Snacks,chips,generic,2.65,13.26,8.84,broad,78.55,CAMP_024,6569.68,2024-01-01,2024-03-31
+PRD_034,KW_002,Bingo Mad Angles 75G,ITC,Snacks,namkeen,generic,1.55,7.77,5.18,broad,41.59,CAMP_024,4106.05,2024-01-01,2024-03-31
+PRD_034,KW_003,Bingo Mad Angles 75G,ITC,Snacks,biscuits,generic,1.62,8.08,5.39,broad,75.15,CAMP_024,6343.1,2024-01-01,2024-03-31
+PRD_034,KW_004,Bingo Mad Angles 75G,ITC,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,96.41,CAMP_024,7760.92,2024-01-01,2024-03-31
+PRD_034,KW_005,Bingo Mad Angles 75G,ITC,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,43.02,CAMP_024,6301.9,2024-01-01,2024-03-31
+PRD_034,KW_006,Bingo Mad Angles 75G,ITC,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,35.53,CAMP_024,5552.68,2024-01-01,2024-03-31
+PRD_034,KW_007,Bingo Mad Angles 75G,ITC,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,45.73,CAMP_024,6573.15,2024-01-01,2024-03-31
+PRD_034,KW_008,Bingo Mad Angles 75G,ITC,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,38.33,CAMP_024,5833.01,2024-01-01,2024-03-31
+PRD_034,KW_009,Bingo Mad Angles 75G,ITC,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,41.82,CAMP_024,6182.47,2024-01-01,2024-03-31
+PRD_034,KW_010,Bingo Mad Angles 75G,ITC,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,57.66,CAMP_024,7765.86,2024-01-01,2024-03-31
+PRD_034,KW_011,Bingo Mad Angles 75G,ITC,Snacks,lays chips,branded,4.23,21.14,14.09,exact,126.33,CAMP_024,5544.41,2024-01-01,2024-03-31
+PRD_034,KW_012,Bingo Mad Angles 75G,ITC,Snacks,kurkure,branded,3.38,16.92,11.28,exact,195.34,CAMP_024,7844.76,2024-01-01,2024-03-31
+PRD_034,KW_013,Bingo Mad Angles 75G,ITC,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,188.64,CAMP_024,7621.4,2024-01-01,2024-03-31
+PRD_034,KW_014,Bingo Mad Angles 75G,ITC,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,103.49,CAMP_024,4783.16,2024-01-01,2024-03-31
+PRD_034,KW_015,Bingo Mad Angles 75G,ITC,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,88.32,CAMP_024,4277.45,2024-01-01,2024-03-31
+PRD_035,KW_001,Kurkure Masala Munch 90G,PepsiCo,Snacks,chips,generic,2.65,13.26,8.84,broad,46.05,CAMP_036,8705.45,2024-01-01,2024-03-31
+PRD_035,KW_002,Kurkure Masala Munch 90G,PepsiCo,Snacks,namkeen,generic,1.55,7.77,5.18,broad,41.09,CAMP_036,8127.55,2024-01-01,2024-03-31
+PRD_035,KW_003,Kurkure Masala Munch 90G,PepsiCo,Snacks,biscuits,generic,1.62,8.08,5.39,broad,45.67,CAMP_036,8661.1,2024-01-01,2024-03-31
+PRD_035,KW_004,Kurkure Masala Munch 90G,PepsiCo,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,80.98,CAMP_036,12781.05,2024-01-01,2024-03-31
+PRD_035,KW_005,Kurkure Masala Munch 90G,PepsiCo,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,22.85,CAMP_036,8498.32,2024-01-01,2024-03-31
+PRD_035,KW_006,Kurkure Masala Munch 90G,PepsiCo,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,32.76,CAMP_036,10232.83,2024-01-01,2024-03-31
+PRD_035,KW_007,Kurkure Masala Munch 90G,PepsiCo,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,53.8,CAMP_036,13914.13,2024-01-01,2024-03-31
+PRD_035,KW_008,Kurkure Masala Munch 90G,PepsiCo,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,20.93,CAMP_036,8162.9,2024-01-01,2024-03-31
+PRD_035,KW_009,Kurkure Masala Munch 90G,PepsiCo,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,52.58,CAMP_036,13701.28,2024-01-01,2024-03-31
+PRD_035,KW_010,Kurkure Masala Munch 90G,PepsiCo,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,31.27,CAMP_036,9972.98,2024-01-01,2024-03-31
+PRD_035,KW_011,Kurkure Masala Munch 90G,PepsiCo,Snacks,lays chips,branded,4.23,21.14,14.09,exact,94.18,CAMP_036,8827.15,2024-01-01,2024-03-31
+PRD_035,KW_012,Kurkure Masala Munch 90G,PepsiCo,Snacks,kurkure,branded,3.38,16.92,11.28,exact,163.61,CAMP_036,12877.16,2024-01-01,2024-03-31
+PRD_035,KW_013,Kurkure Masala Munch 90G,PepsiCo,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,155.47,CAMP_036,12402.6,2024-01-01,2024-03-31
+PRD_035,KW_014,Kurkure Masala Munch 90G,PepsiCo,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,185.3,CAMP_036,14142.3,2024-01-01,2024-03-31
+PRD_035,KW_015,Kurkure Masala Munch 90G,PepsiCo,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,168.21,CAMP_036,13145.5,2024-01-01,2024-03-31
+PRD_036,KW_001,Sunfeast Dark Fantasy 100G,ITC,Snacks,chips,generic,2.65,13.26,8.84,broad,88.21,CAMP_025,7213.92,2024-01-01,2024-03-31
+PRD_036,KW_002,Sunfeast Dark Fantasy 100G,ITC,Snacks,namkeen,generic,1.55,7.77,5.18,broad,56.92,CAMP_025,5128.14,2024-01-01,2024-03-31
+PRD_036,KW_003,Sunfeast Dark Fantasy 100G,ITC,Snacks,biscuits,generic,1.62,8.08,5.39,broad,50.65,CAMP_025,4709.76,2024-01-01,2024-03-31
+PRD_036,KW_004,Sunfeast Dark Fantasy 100G,ITC,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,85.04,CAMP_025,7002.46,2024-01-01,2024-03-31
+PRD_036,KW_005,Sunfeast Dark Fantasy 100G,ITC,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,52.27,CAMP_025,7227.34,2024-01-01,2024-03-31
+PRD_036,KW_006,Sunfeast Dark Fantasy 100G,ITC,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,59.62,CAMP_025,7962.02,2024-01-01,2024-03-31
+PRD_036,KW_007,Sunfeast Dark Fantasy 100G,ITC,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,36.5,CAMP_025,5650.47,2024-01-01,2024-03-31
+PRD_036,KW_008,Sunfeast Dark Fantasy 100G,ITC,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,34.88,CAMP_025,5488.07,2024-01-01,2024-03-31
+PRD_036,KW_009,Sunfeast Dark Fantasy 100G,ITC,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,51.06,CAMP_025,7105.65,2024-01-01,2024-03-31
+PRD_036,KW_010,Sunfeast Dark Fantasy 100G,ITC,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,33.63,CAMP_025,5363.21,2024-01-01,2024-03-31
+PRD_036,KW_011,Sunfeast Dark Fantasy 100G,ITC,Snacks,lays chips,branded,4.23,21.14,14.09,exact,191.69,CAMP_025,7723.03,2024-01-01,2024-03-31
+PRD_036,KW_012,Sunfeast Dark Fantasy 100G,ITC,Snacks,kurkure,branded,3.38,16.92,11.28,exact,183.01,CAMP_025,7433.65,2024-01-01,2024-03-31
+PRD_036,KW_013,Sunfeast Dark Fantasy 100G,ITC,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,131.48,CAMP_025,5715.98,2024-01-01,2024-03-31
+PRD_036,KW_014,Sunfeast Dark Fantasy 100G,ITC,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,170.1,CAMP_025,7003.48,2024-01-01,2024-03-31
+PRD_036,KW_015,Sunfeast Dark Fantasy 100G,ITC,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,170.55,CAMP_025,7018.17,2024-01-01,2024-03-31
+PRD_037,KW_001,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,chips,generic,2.65,13.26,8.84,broad,46.19,CAMP_023,1309.37,2024-01-01,2024-03-31
+PRD_037,KW_002,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,namkeen,generic,1.55,7.77,5.18,broad,94.15,CAMP_023,3707.66,2024-01-01,2024-03-31
+PRD_037,KW_003,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,biscuits,generic,1.62,8.08,5.39,broad,70.32,CAMP_023,2515.76,2024-01-01,2024-03-31
+PRD_037,KW_004,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,89.59,CAMP_023,3479.37,2024-01-01,2024-03-31
+PRD_037,KW_005,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,32.8,CAMP_023,1960.15,2024-01-01,2024-03-31
+PRD_037,KW_006,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,55.82,CAMP_023,3686.57,2024-01-01,2024-03-31
+PRD_037,KW_007,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,35.57,CAMP_023,2167.61,2024-01-01,2024-03-31
+PRD_037,KW_008,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,20.43,CAMP_023,1032.51,2024-01-01,2024-03-31
+PRD_037,KW_009,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,56.22,CAMP_023,3716.15,2024-01-01,2024-03-31
+PRD_037,KW_010,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,23.65,CAMP_023,1273.86,2024-01-01,2024-03-31
+PRD_037,KW_011,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,lays chips,branded,4.23,21.14,14.09,exact,118.32,CAMP_023,1957.94,2024-01-01,2024-03-31
+PRD_037,KW_012,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,kurkure,branded,3.38,16.92,11.28,exact,194.01,CAMP_023,3850.19,2024-01-01,2024-03-31
+PRD_037,KW_013,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,194.07,CAMP_023,3851.82,2024-01-01,2024-03-31
+PRD_037,KW_014,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,148.81,CAMP_023,2720.31,2024-01-01,2024-03-31
+PRD_037,KW_015,Haldirams Aloo Bhujia 200G,Haldirams,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,155.82,CAMP_023,2895.51,2024-01-01,2024-03-31
+PRD_038,KW_001,Oreo Biscuits 120G,Mondelez,Snacks,chips,generic,2.65,13.26,8.84,broad,66.91,CAMP_027,2345.34,2024-01-01,2024-03-31
+PRD_038,KW_002,Oreo Biscuits 120G,Mondelez,Snacks,namkeen,generic,1.55,7.77,5.18,broad,57.59,CAMP_027,1879.63,2024-01-01,2024-03-31
+PRD_038,KW_003,Oreo Biscuits 120G,Mondelez,Snacks,biscuits,generic,1.62,8.08,5.39,broad,59.72,CAMP_027,1985.99,2024-01-01,2024-03-31
+PRD_038,KW_004,Oreo Biscuits 120G,Mondelez,Snacks,instant noodles,generic,1.83,9.14,6.09,broad,80.35,CAMP_027,3017.56,2024-01-01,2024-03-31
+PRD_038,KW_005,Oreo Biscuits 120G,Mondelez,Snacks,snacks under 50,long_tail,1.1,5.48,3.65,phrase,50.09,CAMP_027,3257.12,2024-01-01,2024-03-31
+PRD_038,KW_006,Oreo Biscuits 120G,Mondelez,Snacks,healthy snacks,long_tail,1.73,8.67,5.78,phrase,51.66,CAMP_027,3374.74,2024-01-01,2024-03-31
+PRD_038,KW_007,Oreo Biscuits 120G,Mondelez,Snacks,sugar free biscuits,long_tail,1.96,9.81,6.54,phrase,51.58,CAMP_027,3368.85,2024-01-01,2024-03-31
+PRD_038,KW_008,Oreo Biscuits 120G,Mondelez,Snacks,noodles masala,long_tail,1.7,8.49,5.66,phrase,23.65,CAMP_027,1273.62,2024-01-01,2024-03-31
+PRD_038,KW_009,Oreo Biscuits 120G,Mondelez,Snacks,cream biscuits,long_tail,1.71,8.56,5.71,phrase,39.78,CAMP_027,2483.26,2024-01-01,2024-03-31
+PRD_038,KW_010,Oreo Biscuits 120G,Mondelez,Snacks,protein chips,long_tail,2.27,11.34,7.56,phrase,22.3,CAMP_027,1172.68,2024-01-01,2024-03-31
+PRD_038,KW_011,Oreo Biscuits 120G,Mondelez,Snacks,lays chips,branded,4.23,21.14,14.09,exact,145.94,CAMP_027,2648.59,2024-01-01,2024-03-31
+PRD_038,KW_012,Oreo Biscuits 120G,Mondelez,Snacks,kurkure,branded,3.38,16.92,11.28,exact,132.98,CAMP_027,2324.59,2024-01-01,2024-03-31
+PRD_038,KW_013,Oreo Biscuits 120G,Mondelez,Snacks,maggi noodles,branded,4.68,23.4,15.6,exact,186.52,CAMP_027,3663.11,2024-01-01,2024-03-31
+PRD_038,KW_014,Oreo Biscuits 120G,Mondelez,Snacks,bingo snacks,branded,2.74,13.73,9.15,exact,122.11,CAMP_027,2052.75,2024-01-01,2024-03-31
+PRD_038,KW_015,Oreo Biscuits 120G,Mondelez,Snacks,dark fantasy,branded,3.59,17.96,11.97,exact,94.05,CAMP_027,1351.2,2024-01-01,2024-03-31

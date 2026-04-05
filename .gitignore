@@ -7,9 +7,8 @@ __pycache__/
 *.pyo
 .ipynb_checkpoints/
 
-# Data files — too large for GitHub
+# Data files — only exclude raw
 data/raw/
-data/processed/*.csv
 
 # Keep model evaluation plots
 !data/processed/*.png
