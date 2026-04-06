@@ -315,7 +315,8 @@ def get_impression_range(keyword_id, cpm_bid, target_date=None):
     kw = kw.iloc[0]
 
     # Base impression share
-    base_share = get_impression_share(cpm_bid, kw['avg_competitor_bid'])
+    avg_comp_cpm = float(kw['avg_competitor_bid_cpm'])
+    base_share = get_impression_share(cpm_bid, avg_comp_cpm)
 
     # Seasonal multiplier
     category        = kw.get('category', 'Snacks')
@@ -381,6 +382,8 @@ def forecast_keyword_v2(keyword_id, product_id, cpm_bid,
         return None
 
     kw = df_keywords[df_keywords['keyword_id'] == keyword_id].iloc[0]
+    avg_comp_cpm = float(kw['avg_competitor_bid_cpm'])
+    share = get_impression_share(cpm_bid, avg_comp_cpm)
 
     # Predict pCTR for mid scenario (slot 2, peak hour 9AM)
     pctr_peak = predict_pctr(

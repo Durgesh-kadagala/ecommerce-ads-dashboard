@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import math
 import sys
 import os
 
@@ -175,7 +176,7 @@ with tab1:
             kw_meta     = df_keywords[
                 df_keywords['keyword_id'] == kw_id
             ].iloc[0]
-            floor_bid   = float(kw_meta['floor_bid_cpm'])
+            floor_bid = math.ceil(float(kw_meta['floor_bid_cpm']) * 2) / 2
             suggested   = float(kw_meta['suggested_bid_cpm'])
             top_of_page = float(kw_meta['top_of_page_bid_cpm'])
             default_bid = suggested
@@ -187,9 +188,7 @@ with tab1:
                 target_date=str(start_date)
             )
 
-            col1, col2, col3, col4, col5, col6 = st.columns(
-                [2.5, 1.2, 1.2, 1.8, 1.8, 1.2]
-            )
+            col1, col2, col3, col4, col5, col6 = st.columns([2.0, 1.0, 1.0, 1.5, 1.5, 2.0])  # col6 wider now
 
             with col1:
                 st.markdown(f"**{kw_text}**")
@@ -229,20 +228,37 @@ with tab1:
             with col5:
                 st.markdown(f"**₹{suggested:.0f}** CPM")
                 st.caption(
-                    f"Min: ₹{floor_bid:.0f}  |  Top: ₹{top_of_page:.0f}"
+                    f"Min: ₹{floor_bid:.1f}  |  Top: ₹{top_of_page:.1f}"
                 )
 
             with col6:
                 if is_added:
                     st.success("Added ✓")
                 else:
+                    st.number_input(
+                        "Set bid (₹ CPM)",
+                        min_value=0.0,              # allow any value
+                        value=float(suggested),
+                        step=5.0,
+                        key=f"bid_input_tab1_{kw_id}",
+                        help=f"Min: ₹{floor_bid:.0f} | Suggested: ₹{suggested:.0f} | Top: ₹{top_of_page:.0f}"
+                    )
                     if st.button("+ Add", key=f"add_{kw_id}"):
-                        st.session_state['selected_keywords'].append(kw_id)
-                        st.session_state['original_bids'][kw_id] = suggested
-                        st.session_state['current_bids'][kw_id]  = suggested
-                        st.rerun()
+                        entered_bid = st.session_state.get(
+                            f"bid_input_tab1_{kw_id}", suggested
+                        )
+                        if float(entered_bid) < float(floor_bid) - 0.01:
+                            st.error(
+                                f"❌ Bid ₹{entered_bid:.0f} is below minimum "
+                                f"₹{floor_bid:.0f}. Please increase your bid."
+                            )
+                        else:
+                            st.session_state['selected_keywords'].append(kw_id)
+                            st.session_state['original_bids'][kw_id] = float(entered_bid)
+                            st.session_state['current_bids'][kw_id]  = float(entered_bid)
+                            st.rerun()
 
-            st.divider()
+    st.divider()
 
 # ══════════════════════════════════════════════════════════════════════════════
 # TAB 2 — CAMPAIGN FORECAST
@@ -276,9 +292,13 @@ with tab2:
         forecasts         = []
 
         for kw_id in selected_kw_ids:
-            current_bid = float(
-                st.session_state['current_bids'].get(kw_id, 80)
+            kw_meta_t2   = df_keywords[df_keywords['keyword_id'] == kw_id].iloc[0]
+            suggested_t2 = float(kw_meta_t2['suggested_bid_cpm'])
+            current_bid  = float(
+                st.session_state['current_bids'].get(kw_id, suggested_t2)
             )
+            st.write(f"{kw_id}: live_bid={st.session_state.get(f'live_bid_{kw_id}', 'NOT SET')}, current_bids={st.session_state['current_bids'].get(kw_id, 'NOT SET')}, using={current_bid}")
+           
             fc = forecast_keyword_v2(
                 keyword_id=kw_id,
                 product_id=product_id,
@@ -430,12 +450,11 @@ with tab3:
                 continue
             kw_row = kw_row.iloc[0]
 
-            # CPM bid values
             floor_bid       = float(kw_row['floor_bid_cpm'])
-            suggested_bid   = float(kw_row['suggested_bid_cpm'])
+            suggested_bid_val = float(kw_row['suggested_bid_cpm'])
             top_of_page_bid = float(kw_row['top_of_page_bid_cpm'])
             original_bid    = float(
-                st.session_state['original_bids'].get(kw_id, suggested_bid)
+                st.session_state['original_bids'].get(kw_id, suggested_bid_val)
             )
             current_bid     = float(
                 st.session_state['current_bids'].get(kw_id, original_bid)
@@ -444,29 +463,36 @@ with tab3:
             st.markdown(f"#### {kw_row['keyword_text']}")
             st.caption(
                 f"Original bid: ₹{original_bid:.0f}  |  "
-                f"Min: ₹{floor_bid:.0f}  |  "
-                f"Suggested: ₹{suggested_bid:.0f}  |  "
+                f"Min: ₹{floor_bid:.1f}  |  "
+                f"Suggested: ₹{suggested_bid_val:.0f}  |  "
                 f"Top of page: ₹{top_of_page_bid:.0f}"
             )
 
             col1, col2, col3 = st.columns([2, 1, 1])
 
             with col1:
-                new_bid = st.number_input(
+                # Don't set value= when key exists in session state
+                # to avoid overriding what brand typed
+                if f"bid_input_{kw_id}" not in st.session_state:
+                    st.session_state[f"bid_input_{kw_id}"] = current_bid
+
+                st.number_input(
                     "CPM Bid (₹)",
                     min_value=0.0,
-                    value=current_bid,
                     step=5.0,
                     key=f"bid_input_{kw_id}"
                 )
+
+            # Read live bid from widget
+            live_bid = float(st.session_state[f"bid_input_{kw_id}"])
 
             with col2:
                 st.write("")
                 st.write("")
                 if st.button("Apply Bid", key=f"apply_{kw_id}"):
-                    if new_bid >= original_bid:
-                        st.session_state['current_bids'][kw_id] = new_bid
-                        st.success(f"✅ Updated to ₹{new_bid:.0f}")
+                    if live_bid >= original_bid:
+                        st.session_state['current_bids'][kw_id] = live_bid
+                        st.success(f"✅ Updated to ₹{live_bid:.0f}")
                     else:
                         st.error(
                             f"Cannot go below ₹{original_bid:.0f}. "
@@ -476,18 +502,17 @@ with tab3:
             with col3:
                 st.write("")
                 st.write("")
-                if current_bid > original_bid:
-                    st.success(f"₹{original_bid:.0f} → ₹{current_bid:.0f}")
+                if live_bid > original_bid:
+                    st.success(f"₹{original_bid:.0f} → ₹{live_bid:.0f}")
+                elif live_bid < original_bid:
+                    st.warning(f"Below original bid")
                 else:
-                    st.info("At suggested bid")
+                    st.info("At original bid")
 
-            # Metrics at applied bid
-            applied_bid = float(
-                st.session_state['current_bids'].get(kw_id, original_bid)
-            )
+            # Metrics based on live bid
             imp_range = get_impression_range(
                 keyword_id=kw_id,
-                cpm_bid=applied_bid,
+                cpm_bid=live_bid,
                 target_date=str(start_date)
             )
 
@@ -498,7 +523,11 @@ with tab3:
                     imp_range['impression_share'] * 100
                     if imp_range else 0
                 )
-                st.metric("Impression Share", f"{share_pct:.0f}%")
+                st.metric(
+                    "Impression Share",
+                    f"{share_pct:.0f}%",
+                    help=f"At ₹{live_bid:.0f} CPM bid"
+                )
 
             with m2:
                 if imp_range:
@@ -521,4 +550,4 @@ with tab3:
                         f"{season_emoji} {imp_range['season_label']}"
                     )
 
-            st.divider()
+        st.divider()
