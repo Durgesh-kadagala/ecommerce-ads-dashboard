@@ -36,7 +36,7 @@ streamlit run app.py
 ---
 
 ## Architecture
-
+```
 
 ┌─────────────────────────────────────────────────────────────┐
 │                    Self-Serve Dashboard                      │
@@ -70,7 +70,7 @@ streamlit run app.py
 └─────────────────────────┘              │  spend.csv               │
 │  product_catalog.csv     │
 └─────────────────────────┘
-
+```
 ---
 
 ## Auction Mechanism
@@ -172,6 +172,7 @@ bid_to_competition_ratio
 ---
 
 ## Project Structure
+```
 ecommerce-ads-dashboard/
 │
 ├── app.py                          ← Streamlit dashboard
@@ -196,7 +197,7 @@ ecommerce-ads-dashboard/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## How to Run Locally
