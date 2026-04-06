@@ -297,7 +297,6 @@ with tab2:
             current_bid  = float(
                 st.session_state['current_bids'].get(kw_id, suggested_t2)
             )
-            st.write(f"{kw_id}: live_bid={st.session_state.get(f'live_bid_{kw_id}', 'NOT SET')}, current_bids={st.session_state['current_bids'].get(kw_id, 'NOT SET')}, using={current_bid}")
            
             fc = forecast_keyword_v2(
                 keyword_id=kw_id,
